@@ -12,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... sir/master
 - ⚡ Fun fact: ...toword the end soon
 
+<img align="left" alt="My Github" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&hide_border=true" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/danielkirwa/count.svg" />
+</p>
+<br>
+
+<hr>
+
+<h3 align="left"> Working on ...</h3>
+
+<a href="https://github.com/danielkirwa/KibabiiHostels"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=KibabiiHostels" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/danielkirwa/COVID-19KENYA"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=COVID-19KENYA" width=360> </a>
+
+
+<hr>
