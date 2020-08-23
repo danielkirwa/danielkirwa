@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... sir/master
 - ⚡ Fun fact: ...toword the end soon
 
-<img align="left" alt="My Github" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&hide_border=true" />
 
 <p align="center"> 
-  Visitor count<br>
+  Visit's count<br>
   <img src="https://profile-counter.glitch.me/danielkirwa/count.svg" />
 </p>
 <br>
@@ -28,3 +27,9 @@ Here are some ideas to get you started:
 
 
 <hr>
+<a href="https://github.com/danielkirwa/danielkirwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkirwa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/danielkirwa/danielkirwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Statistics" />
+</a>
