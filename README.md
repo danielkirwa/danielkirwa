@@ -1,4 +1,4 @@
-<marquee>### Checkout   👋</marquee>
+### Checkout 
 
 
 - 👯 I’m looking to collaborate on ...android firebase
@@ -24,9 +24,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=linux&logoColor=FCC624)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 
 <hr>
