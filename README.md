@@ -1,7 +1,7 @@
 
 
 
- ### My web site: ... [my-ws-dan](https://my-ws-dan.herokuapp.com/Home.html)
+ ### My web site: ... [my web page](https://my-ws-dan.herokuapp.com/)
 
 
 
