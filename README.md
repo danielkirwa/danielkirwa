@@ -15,7 +15,7 @@
 
 <h3 align="left"> Working on ...</h3>
 
-<a href="https://github.com/danielkirwa/S-M-S-pri"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=S-M-S-pri" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/danielkirwa/e-com-beauty-UX"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=e-com-beauty-UX" width=360> </a>
+<a href="https://github.com/danielkirwa/S-M-S-pri"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=S-M-S-pri" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/danielkirwa/e-learnig-web-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=e-learnig-web-app" width=360> </a>
 
 <hr>
 <h3>Technologies that I have worked with<h3>
