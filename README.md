@@ -35,3 +35,5 @@
 <a href="https://github.com/danielkirwa/danielkirwa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&line_height=27&count_public=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Statistics" />
 </a>
+ <hr>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=danielkirwa&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
