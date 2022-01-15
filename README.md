@@ -1,7 +1,7 @@
 
 
 
- ### My web site: ... [my web page](https://bit.ly/danielkirwa)
+ ### Web page: ... [Visit my site](https://bit.ly/danielkirwa)
 
 
 
