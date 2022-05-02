@@ -1,7 +1,7 @@
 
 
 ### Hello happy to see you, ask me about web
- ### Web page: ... [Visit my site](https://bit.ly/danielkirwa)
+ ### Want to know more: ... [Visit my site](https://bit.ly/danielkirwa)
 
 
 
@@ -15,7 +15,8 @@
 
 <h3 align="left"> Working on ...</h3>
 
-<a href="https://github.com/danielkirwa/Student-evidence-based-verdict"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=Student-evidence-based-verdict" width=360> </a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/danielkirwa/e-learnig-web-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=e-learnig-web-app" width=360> </a>
+<a href="https://github.com/danielkirwa/Student-evidence-based-verdict"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=Student-evidence-based-verdict" width=360> </a> &nbsp; &nbsp; &nbsp; 
+<a href="https://github.com/danielkirwa/e-learnig-web-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=e-learnig-web-app" width=360> </a>
 
 <hr>
 <h3>Technologies that I have worked with<h3>
