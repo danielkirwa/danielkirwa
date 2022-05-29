@@ -1,7 +1,7 @@
 
 
-### Hello happy to see you, ask me about web
- ### Want to know more: ... [Visit my site](https://bit.ly/danielkirwa)
+### Hello happy to see you, ask me about anything
+ ### Want to know more: ... [Visit my website](https://bit.ly/danielkirwa)
 
 
 
