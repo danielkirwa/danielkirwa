@@ -16,7 +16,7 @@
 <h3 align="left"> Working on ...</h3>
 
 <a href="https://github.com/danielkirwa/Smart-Poultry"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=Smart-Poultry" width=360> </a> &nbsp; &nbsp; &nbsp; 
-<a href="https://github.com/danielkirwa/e-learnig-web-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=e-learnig-web-app" width=360> </a>
+<a href="https://github.com/danielkirwa/crime-tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=crime-tracker" width=360> </a>
 
 <hr>
 <h3>Technologies that I have worked with<h3>
