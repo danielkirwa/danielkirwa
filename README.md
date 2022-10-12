@@ -15,8 +15,7 @@
 
 <h3 align="left"> Working on ...</h3>
 
-<a href="https://github.com/danielkirwa/Smart-Poultry"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=Smart-Poultry" width=360> </a> &nbsp; &nbsp; &nbsp; 
-<a href="https://github.com/danielkirwa/crime-tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielkirwa&repo=crime-tracker" width=360> </a>
+
 [![Smart-Poultry](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/Smart-Poultry&mode=dark&style=horizontal)](https://github.com/danielkirwa/Smart-Poultry)
 [![crime-tracker](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/crime-tracker&mode=dark&style=horizontal)](https://github.com/danielkirwa/crime-tracker)
 
