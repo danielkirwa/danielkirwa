@@ -16,8 +16,8 @@
 <h3 align="left"> Working on ...</h3>
 
 
-[![Smart-Poultry](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/Smart-Poultry&mode=dark&style=horizontal)](https://github.com/danielkirwa/Smart-Poultry)
-[![crime-tracker](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/crime-tracker&mode=dark&style=horizontal)](https://github.com/danielkirwa/crime-tracker)
+[![compliansApp](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/compliansApp&mode=dark&style=horizontal)](https://github.com/danielkirwa/compliansApp)
+[![PhpFileuploading](https://svg.bookmark.style/api?url=https://github.com/danielkirwa/PhpFileuploading&mode=dark&style=horizontal)](https://github.com/danielkirwa/PhpFileuploading)
 
 <hr>
 <h3>Technologies that I have worked with<h3>
