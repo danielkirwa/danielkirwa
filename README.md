@@ -31,11 +31,13 @@
 ![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 
 <hr>
-<a href="https://github.com/danielkirwa/danielkirwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkirwa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/danielkirwa/danielkirwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&line_height=27&count_public=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Statistics" />
-</a>
+<p align="center">
+<a href="https://github.com/danielkirwa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielkirwa&show_icons=true&line_height=27&count_public=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My Statistics" />
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielkirwa&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=danielkirwa&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+ </a>
+</p>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=danielkirwa&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
