@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visit's count<br>
-  <img src="https://profile-counter.glitch.me/danielkirwa/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=danielkirwa&color=green" alt="Profile views" />
 </p>
 <br>
 
