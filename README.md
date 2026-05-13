@@ -1,5 +1,6 @@
 
- ![Snake animation](https://github.com/danielkirwa/danielkirwa/blob/output/github-contribution-grid-snake.svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=2bbc8a&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Daniel!;Web+Developer;Android+Builder;Tech+Mentor;Coding+Tutor+%26+Entrepreneur)](https://git.io/typing-svg)
+
  
 ### Hello there, happy to see you ask me about anything
  ### Want to know more: ... [Visit my website](https://bit.ly/danielkipchirchir)
